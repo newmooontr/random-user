@@ -1,0 +1,54 @@
+body{
+    background-color:blanchedalmond;
+    background-image: linear-gradient(to top, #d5dee7 0%, #ffafbd 0%, #c9ffbf 100%);
+}
+
+.container img{
+    width: 30px;
+    height: 70px;
+    margin-left: 10px;
+   
+} 
+
+
+.container >div {
+    display: flex;
+    flex-wrap: nowrap;
+    margin-left: 10px;
+    align-items: center;
+    gap: 40px;
+}
+
+.container{
+    width:450px;
+    min-width: 33%;
+    background-color:darksalmon;
+    box-shadow: 7px 7px 20px 5px rgba(0,0,0,0.5)  ;
+    background-image: linear-gradient(-225deg, #7085B6 0%, #87A7D9 50%, #DEF3F8 100%);
+    
+}
+
+.button{
+    margin-bottom: 20px;
+}
+
+h1{
+    font-size: medium;
+    margin-top: 70px;
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+
+.container >div >p{ 
+
+    margin: 10px auto;
+
+}
+
+.info-row img{
+    margin-left: 40px;
+
+}
+
+
